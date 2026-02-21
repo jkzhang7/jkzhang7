@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Jingkun Zhang, currently a software engineer in Bay Area.
-- 👀 I’m interested in ML/AI/ML Compiler.
-- 🌱 I’m currently learning eveyerting about ML compiler.
-- 💞️ I’m looking to collaborate on ML compiler.
+- 👋 Hi, I’m Jingkun Zhang, currently a software engineer at NVIDIA, working on deep learning compilers and inference.
 - 📫 jingkzhang7@gmail.com
 
 <!---
