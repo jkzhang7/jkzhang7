@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jingkun Zhang, currently a software engineer at NVIDIA, working on deep learning compilers and inference.
+- 👋 Hi, I’m Jingkun Zhang, working on deep learning compilers and inference.
 - 📫 jingkzhang7@gmail.com
 
 <!---
